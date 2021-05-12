@@ -1,2 +1,2 @@
-# resume_project
+# Entry project
 entry project
